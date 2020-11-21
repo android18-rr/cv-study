@@ -1,2 +1,5 @@
 # cv-study
-Computer vision alogorithm study in Python.
+
+This is a log of study about CV algorithms.
+
+## Contour
